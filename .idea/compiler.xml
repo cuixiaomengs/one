@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aicircle_web" />
+        <module name="com.daojia.haobo.aicircle.basic.contract" />
+        <module name="com.daojia.haobo.aicircle.basic.service" />
+        <module name="com.daojia.haobo.aicircle.common.contract" />
+        <module name="com.daojia.haobo.aicircle.common.service" />
+        <module name="com.daojia.haobo.aicircle.company.contract" />
+        <module name="com.daojia.haobo.aicircle.company.service" />
+        <module name="com.daojia.haobo.aicircle.exam.contract" />
+        <module name="com.daojia.haobo.aicircle.exam.service" />
+        <module name="com.daojia.haobo.aicircle.jd.contract" />
+        <module name="com.daojia.haobo.aicircle.jd.service" />
+        <module name="com.daojia.haobo.aicircle.resume.contract" />
+        <module name="com.daojia.haobo.aicircle.resume.contract (1)" />
+        <module name="com.daojia.haobo.aicircle.resume.service" />
+        <module name="com.daojia.haobo.aicircle.search.contract" />
+        <module name="com.daojia.haobo.aicircle.search.service" />
+        <module name="com.daojia.haobo.aicircle.user.contract" />
+        <module name="com.daojia.haobo.aicircle.user.service" />
+        <module name="com.daojia.haobo.web.creater" />
+        <module name="generator" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aicircle_web" target="1.8" />
+      <module name="com.daojia.haobo.aicircle.basic.contract" target="1.8" />
+      <module name="com.daojia.haobo.aicircle.basic.service" target="1.8" />
+      <module name="com.daojia.haobo.aicircle.common.contract" target="1.8" />
+      <module name="com.daojia.haobo.aicircle.common.service" target="1.8" />
+      <module name="com.daojia.haobo.aicircle.company.contract" target="1.8" />
+      <module name="com.daojia.haobo.aicircle.company.service" target="1.8" />
+      <module name="com.daojia.haobo.aicircle.exam.contract" target="1.8" />
+      <module name="com.daojia.haobo.aicircle.exam.service" target="1.8" />
+      <module name="com.daojia.haobo.aicircle.jd.contract" target="1.8" />
+      <module name="com.daojia.haobo.aicircle.jd.service" target="1.8" />
+      <module name="com.daojia.haobo.aicircle.resume.contract" target="1.8" />
+      <module name="com.daojia.haobo.aicircle.resume.contract (1)" target="1.8" />
+      <module name="com.daojia.haobo.aicircle.resume.service" target="1.8" />
+      <module name="com.daojia.haobo.aicircle.search.contract" target="1.8" />
+      <module name="com.daojia.haobo.aicircle.search.service" target="1.8" />
+      <module name="com.daojia.haobo.aicircle.user.contract" target="1.8" />
+      <module name="com.daojia.haobo.aicircle.user.service" target="1.8" />
+      <module name="com.daojia.haobo.web.creater" target="1.5" />
+      <module name="generator" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/aicircle_web" />
+    <file type="web" url="file://$PROJECT_DIR$/generator" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/aicircle_dsf_resume_service/pom.xml" />
+        <option value="$PROJECT_DIR$/aicircle_creater/pom.xml" />
+        <option value="$PROJECT_DIR$/aicircle_dsf_common_contract/pom.xml" />
+        <option value="$PROJECT_DIR$/aicircle_dsf_company_contract/pom.xml" />
+        <option value="$PROJECT_DIR$/aicircle_dsf_common_service/pom.xml" />
+        <option value="$PROJECT_DIR$/aicircle_dsf_company_service/pom.xml" />
+        <option value="$PROJECT_DIR$/aicircle_dsf_resume_contract/pom.xml" />
+        <option value="$PROJECT_DIR$/aicircle_dsf_basic_service/pom.xml" />
+        <option value="$PROJECT_DIR$/aicircle_dsf_basic_contract/pom.xml" />
+        <option value="$PROJECT_DIR$/aicircle_dsf_exam_contract-/pom.xml" />
+        <option value="$PROJECT_DIR$/aicircle_dsf_exam_service/pom.xml" />
+        <option value="$PROJECT_DIR$/aicircle_dsf_jd_contract/pom.xml" />
+        <option value="$PROJECT_DIR$/aicircle_dsf_jd_service/pom.xml" />
+        <option value="$PROJECT_DIR$/aicircle_dsf_user_contract/pom.xml" />
+        <option value="$PROJECT_DIR$/aicircle_dsf_user_service/pom.xml" />
+        <option value="$PROJECT_DIR$/aicircle_dsf_search_service/pom.xml" />
+        <option value="$PROJECT_DIR$/aicircle_dsf_exam_contract/pom.xml" />
+        <option value="$PROJECT_DIR$/aicircle_dsf_search_contract/pom.xml" />
+        <option value="$PROJECT_DIR$/aicircle_web/pom.xml" />
+        <option value="$PROJECT_DIR$/generator/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

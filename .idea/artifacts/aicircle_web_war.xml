@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="aicircle_web:war">
+    <output-path>$PROJECT_DIR$/aicircle_web/target</output-path>
+    <root id="archive" name="aicircle_web.war">
+      <element id="artifact" artifact-name="aicircle_web:war exploded" />
+    </root>
+  </artifact>
+</component>

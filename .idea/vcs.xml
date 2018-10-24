@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="E:\www\one\aicircle_creater" vcs="Git" />
+    <mapping directory="E:\www\one\aicircle_dsf_basic_contract" vcs="Git" />
+    <mapping directory="E:\www\one\aicircle_dsf_basic_service" vcs="Git" />
+    <mapping directory="E:\www\one\aicircle_dsf_common_contract" vcs="Git" />
+    <mapping directory="E:\www\one\aicircle_dsf_common_service" vcs="Git" />
+    <mapping directory="E:\www\one\aicircle_dsf_company_contract" vcs="Git" />
+    <mapping directory="E:\www\one\aicircle_dsf_company_service" vcs="Git" />
+    <mapping directory="E:\www\one\aicircle_dsf_exam_contract" vcs="Git" />
+    <mapping directory="E:\www\one\aicircle_dsf_exam_service" vcs="Git" />
+    <mapping directory="E:\www\one\aicircle_dsf_jd_contract" vcs="Git" />
+    <mapping directory="E:\www\one\aicircle_dsf_jd_service" vcs="Git" />
+    <mapping directory="E:\www\one\aicircle_dsf_resume_contract" vcs="Git" />
+    <mapping directory="E:\www\one\aicircle_dsf_resume_service" vcs="Git" />
+    <mapping directory="E:\www\one\aicircle_dsf_search_service" vcs="Git" />
+    <mapping directory="E:\www\one\aicircle_dsf_user_contract" vcs="Git" />
+    <mapping directory="E:\www\one\aicircle_dsf_user_service" vcs="Git" />
+  </component>
+</project>
