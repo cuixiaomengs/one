@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.daojia:dos-ext-client:0.0.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/tools/repo/repo/com/daojia/dos-ext-client/0.0.3-SNAPSHOT/dos-ext-client-0.0.3-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/tools/repo/repo/com/daojia/dos-ext-client/0.0.3-SNAPSHOT/dos-ext-client-0.0.3-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/tools/repo/repo/com/daojia/dos-ext-client/0.0.3-SNAPSHOT/dos-ext-client-0.0.3-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

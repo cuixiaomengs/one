@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.daojia.spat.dtracker:dtracker-client:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/tools/repo/repo/com/daojia/spat/dtracker/dtracker-client/1.0.0-SNAPSHOT/dtracker-client-1.0.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/tools/repo/repo/com/daojia/spat/dtracker/dtracker-client/1.0.0-SNAPSHOT/dtracker-client-1.0.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/tools/repo/repo/com/daojia/spat/dtracker/dtracker-client/1.0.0-SNAPSHOT/dtracker-client-1.0.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

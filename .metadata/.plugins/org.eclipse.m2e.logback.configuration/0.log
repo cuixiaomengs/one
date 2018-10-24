@@ -1,0 +1,139 @@
+2018-10-16 16:09:57,312 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.daojia.haobo:com.daojia.haobo.web.creater:0.0.1-SNAPSHOT @ E:\www\one\aicircle_creater\pom.xml.
+2018-10-16 16:09:57,446 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.daojia.haobo.aicircle:com.daojia.haobo.aicircle.resume.contract:0.0.1-SNAPSHOT @ E:\www\one\aicircle_dsf_resume_contract\pom.xml.
+2018-10-16 16:09:57,454 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia:daojia.suyun.dao:jar:2.0.1-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:09:57,459 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat:com.daojia.spat.dsf.protocol:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:09:57,737 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.daojia.haobo.aicircle:com.daojia.haobo.aicircle.resume.service:0.0.1-SNAPSHOT @ E:\www\one\aicircle_dsf_resume_service\pom.xml.
+2018-10-16 16:09:57,775 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.bj58.spat:com.bj58.spat.utility:jar:3.5.1-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:09:57,799 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.bj58.spat:com.bj58.spat.memcachedclient:jar:2.1.2 is missing, no dependency information available
+2018-10-16 16:09:57,967 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat.dtracker:dtracker-client:jar:1.0.0-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:09:57,970 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat:com.daojia.spat.dsf.server:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:09:57,972 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat:com.daojia.spat.dsf.client:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:09:58,024 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.haobo.aicircle:com.daojia.haobo.aicircle.common.contract:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:09:58,207 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.daojia.haobo:aicircle_web:0.0.1-SNAPSHOT @ E:\www\one\aicircle_web\pom.xml.
+2018-10-16 16:09:58,209 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.dwf:com.daojia.dwf.mvc:jar:0.2.4-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:09:58,214 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat:com.daojia.spat.dao:jar:1.0.7-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:09:58,217 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.dwf:dwfapi-annotations:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:09:58,250 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.bst.hbase:com.daojia.bst.hbase.contract:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:09:58,253 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat.dos:dos-client:jar:1.0.5-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:09:58,255 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia:dos-ext-client:jar:0.0.3-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:09:58,257 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat:com.daojia.spat.djedis:jar:2.0.0-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:09:58,259 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.platform:com.daojia.platform.logcollector.client-frame:jar:1.0.1-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:09:58,263 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.platform:com.daojia.platform.logcollector.client-base:jar:1.0.1-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:00,701 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aicircle_creater/src/main/java
+2018-10-16 16:10:00,702 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /aicircle_creater/src/main/resources
+2018-10-16 16:10:00,703 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aicircle_creater/src/test/java
+2018-10-16 16:10:01,552 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aicircle_web/src/main/java
+2018-10-16 16:10:01,552 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /aicircle_web/src/main/resources
+2018-10-16 16:10:01,553 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aicircle_web/src/test/java
+2018-10-16 16:10:03,266 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.dwf:com.daojia.dwf.mvc:jar:0.2.4-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:03,269 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat:com.daojia.spat.dao:jar:1.0.7-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:03,272 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.dwf:dwfapi-annotations:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:03,281 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.bst.hbase:com.daojia.bst.hbase.contract:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:03,284 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.haobo.aicircle:com.daojia.haobo.aicircle.common.contract:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:03,286 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat:com.daojia.spat.dsf.client:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:03,289 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat:com.daojia.spat.dsf.protocol:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:03,292 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat.dos:dos-client:jar:1.0.5-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:03,295 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia:dos-ext-client:jar:0.0.3-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:03,297 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat:com.daojia.spat.djedis:jar:2.0.0-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:03,300 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.platform:com.daojia.platform.logcollector.client-frame:jar:1.0.1-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:03,303 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.platform:com.daojia.platform.logcollector.client-base:jar:1.0.1-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:03,362 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aicircle_dsf_resume_service/src/main/java
+2018-10-16 16:10:03,378 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aicircle_dsf_resume_service/src/test/java
+2018-10-16 16:10:03,551 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aicircle_dsf_resume_contract/src/main/java
+2018-10-16 16:10:03,551 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aicircle_dsf_resume_contract/src/test/java
+2018-10-16 16:10:03,654 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 4 project(s) in 7 sec
+2018-10-16 16:10:06,281 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-16 16:10:06,290 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 16:10:06,322 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-16 16:10:06,324 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\www\one\aicircle_creater\src\test\resources
+2018-10-16 16:10:06,377 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia:daojia.suyun.dao:jar:2.0.1-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:06,379 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat:com.daojia.spat.dsf.protocol:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:06,384 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-16 16:10:06,385 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\www\one\aicircle_dsf_resume_contract\src\main\resources
+2018-10-16 16:10:06,387 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-16 16:10:06,388 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\www\one\aicircle_dsf_resume_contract\src\test\resources
+2018-10-16 16:10:06,414 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia:daojia.suyun.dao:jar:2.0.1-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:06,438 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.bj58.spat:com.bj58.spat.utility:jar:3.5.1-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:06,442 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.bj58.spat:com.bj58.spat.memcachedclient:jar:2.1.2 is missing, no dependency information available
+2018-10-16 16:10:06,495 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat:com.daojia.spat.dsf.protocol:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:06,498 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat.dtracker:dtracker-client:jar:1.0.0-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:06,500 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat:com.daojia.spat.dsf.server:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:06,502 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat:com.daojia.spat.dsf.client:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:06,512 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.haobo.aicircle:com.daojia.haobo.aicircle.common.contract:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:06,537 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-16 16:10:06,539 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\www\one\aicircle_dsf_resume_service\src\main\resources
+2018-10-16 16:10:06,543 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-16 16:10:06,544 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\www\one\aicircle_dsf_resume_service\src\test\resources
+2018-10-16 16:10:06,624 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.dwf:com.daojia.dwf.mvc:jar:0.2.4-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:06,626 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat:com.daojia.spat.dao:jar:1.0.7-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:06,629 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.dwf:dwfapi-annotations:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:06,638 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.bst.hbase:com.daojia.bst.hbase.contract:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:06,640 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.haobo.aicircle:com.daojia.haobo.aicircle.common.contract:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:06,643 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat:com.daojia.spat.dsf.client:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:06,645 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat:com.daojia.spat.dsf.protocol:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:06,647 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat.dos:dos-client:jar:1.0.5-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:06,648 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia:dos-ext-client:jar:0.0.3-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:06,650 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.spat:com.daojia.spat.djedis:jar:2.0.0-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:06,651 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.platform:com.daojia.platform.logcollector.client-frame:jar:1.0.1-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:06,653 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.daojia.platform:com.daojia.platform.logcollector.client-base:jar:1.0.1-SNAPSHOT is missing, no dependency information available
+2018-10-16 16:10:06,662 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-16 16:10:06,664 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-16 16:10:06,666 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-16 16:10:06,667 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\www\one\aicircle_web\src\test\resources
+2018-10-16 16:12:27,751 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.daojia.haobo:aicircle_web:0.0.1-SNAPSHOT @ E:\www\one\aicircle_web\pom.xml.
+2018-10-16 16:12:28,025 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/dwf/com.daojia.dwf.mvc/0.2.4-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,054 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/watcher/com.daojia.spat.watcher.client/1.0.2-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,089 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/watcher/com.daojia.spat.watcher.utility/1.0.2-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,120 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/platform/com.daojia.platform.logcollector.client-frame/1.0.1-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,236 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/dtracker/dtracker-api/1.0.3-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,300 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/com.daojia.spat.dao/1.0.7-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,329 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/dtracker/dtracker-api/1.0.2-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,360 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/dwf/dwfapi-annotations/0.0.1-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,385 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/bst/hbase/com.daojia.bst.hbase.contract/0.0.1-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,407 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://42.159.90.94:8082/repository/maven-public/com/daojia/haobo/aicircle/com.daojia.haobo.aicircle.common.contract/0.0.1-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,461 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/haobo/aicircle/com.daojia.haobo.aicircle.common.contract/0.0.1-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,479 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/daojia.suyun.dao/2.0.1-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,515 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/com.daojia.spat.dsf.protocol/2.0.4-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,537 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/com.daojia.spat.dsf.serializer/2.0.4-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,562 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/com.daojia.spat.dsf.client/2.0.4-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,587 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/dtracker/dtracker-api/1.0.0-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,610 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/dsfmngr/com.daojia.spat.dsfmngr.collector.client/1.0.3-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,632 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/dsfmngr/com.daojia.spat.dsfmngr.collector.contract/1.0.3-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,657 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/dos/dos-client/1.0.5-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,682 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/com.daojia.spat.dsf.protocol/2.0.2-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,701 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/com.daojia.spat.dsf.serializer/2.0.2-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,719 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/dos-ext-client/0.0.3-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,741 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/com.daojia.spat.dsf.protocol/2.0.3-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,780 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/com.daojia.spat.dsf.serializer/2.0.3-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,802 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/dos/dos-client/1.0.6-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,821 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/com.daojia.spat.djedis/2.0.0-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,852 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/platform/com.daojia.platform.logcollector.client-base/1.0.1-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:28,941 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.daojia.haobo.aicircle:com.daojia.haobo.aicircle.resume.contract:0.0.1-SNAPSHOT @ E:\www\one\aicircle_dsf_resume_contract\pom.xml.
+2018-10-16 16:12:28,992 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.daojia.haobo:com.daojia.haobo.web.creater:0.0.1-SNAPSHOT @ E:\www\one\aicircle_creater\pom.xml.
+2018-10-16 16:12:29,158 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.daojia.haobo.aicircle:com.daojia.haobo.aicircle.resume.service:0.0.1-SNAPSHOT @ E:\www\one\aicircle_dsf_resume_service\pom.xml.
+2018-10-16 16:12:29,200 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/bj58/spat/com.bj58.spat.utility/3.5.1-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:29,231 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/bj58/spat/esb_client/0.0.4-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:29,284 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/dtracker/dtracker-client/1.0.0-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:29,308 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/dtracker/dtracker-common/1.0.0-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:29,333 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/com.daojia.spat.dsf.server/2.0.4-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:29,395 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://42.159.90.94:8082/repository/maven-public/com/daojia/spat/com.daojia.spat.utility/1.0.2-SNAPSHOT/maven-metadata.xml
+2018-10-16 16:12:32,064 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-16 16:12:32,069 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 16:12:32,077 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-16 16:12:32,079 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\www\one\aicircle_creater\src\test\resources
+2018-10-16 16:12:32,377 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-16 16:12:32,378 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\www\one\aicircle_dsf_resume_contract\src\main\resources
+2018-10-16 16:12:32,379 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-16 16:12:32,381 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\www\one\aicircle_dsf_resume_contract\src\test\resources
+2018-10-16 16:12:32,720 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-16 16:12:32,721 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\www\one\aicircle_dsf_resume_service\src\main\resources
+2018-10-16 16:12:32,723 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-16 16:12:32,724 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\www\one\aicircle_dsf_resume_service\src\test\resources
+2018-10-16 16:12:33,399 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-16 16:12:33,403 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-16 16:12:33,415 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-16 16:12:33,416 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\www\one\aicircle_web\src\test\resources
+2018-10-16 16:13:48,960 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-16 16:13:48,962 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-10-16 16:13:48,964 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-16 16:13:48,965 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\www\one\aicircle_web\src\test\resources

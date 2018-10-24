@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aicircle_web/aicircle_web.iml" filepath="$PROJECT_DIR$/aicircle_web/aicircle_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aicircle_dsf_basic_contract/com.daojia.haobo.aicircle.basic.contract.iml" filepath="$PROJECT_DIR$/aicircle_dsf_basic_contract/com.daojia.haobo.aicircle.basic.contract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aicircle_dsf_basic_service/com.daojia.haobo.aicircle.basic.service.iml" filepath="$PROJECT_DIR$/aicircle_dsf_basic_service/com.daojia.haobo.aicircle.basic.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aicircle_dsf_common_contract/com.daojia.haobo.aicircle.common.contract.iml" filepath="$PROJECT_DIR$/aicircle_dsf_common_contract/com.daojia.haobo.aicircle.common.contract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aicircle_dsf_common_service/com.daojia.haobo.aicircle.common.service.iml" filepath="$PROJECT_DIR$/aicircle_dsf_common_service/com.daojia.haobo.aicircle.common.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aicircle_dsf_company_contract/com.daojia.haobo.aicircle.company.contract.iml" filepath="$PROJECT_DIR$/aicircle_dsf_company_contract/com.daojia.haobo.aicircle.company.contract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aicircle_dsf_company_service/com.daojia.haobo.aicircle.company.service.iml" filepath="$PROJECT_DIR$/aicircle_dsf_company_service/com.daojia.haobo.aicircle.company.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aicircle_dsf_exam_contract/com.daojia.haobo.aicircle.exam.contract.iml" filepath="$PROJECT_DIR$/aicircle_dsf_exam_contract/com.daojia.haobo.aicircle.exam.contract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aicircle_dsf_exam_service/com.daojia.haobo.aicircle.exam.service.iml" filepath="$PROJECT_DIR$/aicircle_dsf_exam_service/com.daojia.haobo.aicircle.exam.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aicircle_dsf_jd_contract/com.daojia.haobo.aicircle.jd.contract.iml" filepath="$PROJECT_DIR$/aicircle_dsf_jd_contract/com.daojia.haobo.aicircle.jd.contract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aicircle_dsf_jd_service/com.daojia.haobo.aicircle.jd.service.iml" filepath="$PROJECT_DIR$/aicircle_dsf_jd_service/com.daojia.haobo.aicircle.jd.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aicircle_dsf_resume_contract/com.daojia.haobo.aicircle.resume.contract.iml" filepath="$PROJECT_DIR$/aicircle_dsf_resume_contract/com.daojia.haobo.aicircle.resume.contract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aicircle_dsf_resume_service/com.daojia.haobo.aicircle.resume.service.iml" filepath="$PROJECT_DIR$/aicircle_dsf_resume_service/com.daojia.haobo.aicircle.resume.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aicircle_dsf_search_contract/com.daojia.haobo.aicircle.search.contract.iml" filepath="$PROJECT_DIR$/aicircle_dsf_search_contract/com.daojia.haobo.aicircle.search.contract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aicircle_dsf_search_service/com.daojia.haobo.aicircle.search.service.iml" filepath="$PROJECT_DIR$/aicircle_dsf_search_service/com.daojia.haobo.aicircle.search.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aicircle_dsf_user_contract/com.daojia.haobo.aicircle.user.contract.iml" filepath="$PROJECT_DIR$/aicircle_dsf_user_contract/com.daojia.haobo.aicircle.user.contract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aicircle_dsf_user_service/com.daojia.haobo.aicircle.user.service.iml" filepath="$PROJECT_DIR$/aicircle_dsf_user_service/com.daojia.haobo.aicircle.user.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aicircle_creater/com.daojia.haobo.web.creater.iml" filepath="$PROJECT_DIR$/aicircle_creater/com.daojia.haobo.web.creater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generator/generator.iml" filepath="$PROJECT_DIR$/generator/generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/one.iml" filepath="$PROJECT_DIR$/.idea/one.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.bj58.spat:esb_client:0.0.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/tools/repo/repo/com/bj58/spat/esb_client/0.0.4-SNAPSHOT/esb_client-0.0.4-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/tools/repo/repo/com/bj58/spat/esb_client/0.0.4-SNAPSHOT/esb_client-0.0.4-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/tools/repo/repo/com/bj58/spat/esb_client/0.0.4-SNAPSHOT/esb_client-0.0.4-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

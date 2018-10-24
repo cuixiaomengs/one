@@ -1,0 +1,233 @@
+!SESSION 2018-10-16 16:07:01.931 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-10-16 16:07:29.576
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\xzj'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:09:57.456
+!MESSAGE The POM for com.daojia:daojia.suyun.dao:jar:2.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:09:57.459
+!MESSAGE The POM for com.daojia.spat:com.daojia.spat.dsf.protocol:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:09:57.776
+!MESSAGE The POM for com.bj58.spat:com.bj58.spat.utility:jar:3.5.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:09:57.800
+!MESSAGE The POM for com.bj58.spat:com.bj58.spat.memcachedclient:jar:2.1.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:09:57.968
+!MESSAGE The POM for com.daojia.spat.dtracker:dtracker-client:jar:1.0.0-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:09:57.970
+!MESSAGE The POM for com.daojia.spat:com.daojia.spat.dsf.server:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:09:57.973
+!MESSAGE The POM for com.daojia.spat:com.daojia.spat.dsf.client:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:09:58.025
+!MESSAGE The POM for com.daojia.haobo.aicircle:com.daojia.haobo.aicircle.common.contract:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:09:58.212
+!MESSAGE The POM for com.daojia.dwf:com.daojia.dwf.mvc:jar:0.2.4-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:09:58.215
+!MESSAGE The POM for com.daojia.spat:com.daojia.spat.dao:jar:1.0.7-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:09:58.217
+!MESSAGE The POM for com.daojia.dwf:dwfapi-annotations:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:09:58.251
+!MESSAGE The POM for com.daojia.bst.hbase:com.daojia.bst.hbase.contract:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:09:58.253
+!MESSAGE The POM for com.daojia.spat.dos:dos-client:jar:1.0.5-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:09:58.255
+!MESSAGE The POM for com.daojia:dos-ext-client:jar:0.0.3-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:09:58.257
+!MESSAGE The POM for com.daojia.spat:com.daojia.spat.djedis:jar:2.0.0-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:09:58.261
+!MESSAGE The POM for com.daojia.platform:com.daojia.platform.logcollector.client-frame:jar:1.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:09:58.264
+!MESSAGE The POM for com.daojia.platform:com.daojia.platform.logcollector.client-base:jar:1.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:03.267
+!MESSAGE The POM for com.daojia.dwf:com.daojia.dwf.mvc:jar:0.2.4-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:03.270
+!MESSAGE The POM for com.daojia.spat:com.daojia.spat.dao:jar:1.0.7-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:03.272
+!MESSAGE The POM for com.daojia.dwf:dwfapi-annotations:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:03.281
+!MESSAGE The POM for com.daojia.bst.hbase:com.daojia.bst.hbase.contract:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:03.284
+!MESSAGE The POM for com.daojia.haobo.aicircle:com.daojia.haobo.aicircle.common.contract:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:03.287
+!MESSAGE The POM for com.daojia.spat:com.daojia.spat.dsf.client:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:03.290
+!MESSAGE The POM for com.daojia.spat:com.daojia.spat.dsf.protocol:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:03.293
+!MESSAGE The POM for com.daojia.spat.dos:dos-client:jar:1.0.5-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:03.296
+!MESSAGE The POM for com.daojia:dos-ext-client:jar:0.0.3-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:03.298
+!MESSAGE The POM for com.daojia.spat:com.daojia.spat.djedis:jar:2.0.0-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:03.301
+!MESSAGE The POM for com.daojia.platform:com.daojia.platform.logcollector.client-frame:jar:1.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:03.303
+!MESSAGE The POM for com.daojia.platform:com.daojia.platform.logcollector.client-base:jar:1.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.283
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.323
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.377
+!MESSAGE The POM for com.daojia:daojia.suyun.dao:jar:2.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.380
+!MESSAGE The POM for com.daojia.spat:com.daojia.spat.dsf.protocol:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.385
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.387
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.415
+!MESSAGE The POM for com.daojia:daojia.suyun.dao:jar:2.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.439
+!MESSAGE The POM for com.bj58.spat:com.bj58.spat.utility:jar:3.5.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.443
+!MESSAGE The POM for com.bj58.spat:com.bj58.spat.memcachedclient:jar:2.1.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.496
+!MESSAGE The POM for com.daojia.spat:com.daojia.spat.dsf.protocol:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.499
+!MESSAGE The POM for com.daojia.spat.dtracker:dtracker-client:jar:1.0.0-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.501
+!MESSAGE The POM for com.daojia.spat:com.daojia.spat.dsf.server:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.502
+!MESSAGE The POM for com.daojia.spat:com.daojia.spat.dsf.client:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.513
+!MESSAGE The POM for com.daojia.haobo.aicircle:com.daojia.haobo.aicircle.common.contract:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.538
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.544
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.624
+!MESSAGE The POM for com.daojia.dwf:com.daojia.dwf.mvc:jar:0.2.4-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.627
+!MESSAGE The POM for com.daojia.spat:com.daojia.spat.dao:jar:1.0.7-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.630
+!MESSAGE The POM for com.daojia.dwf:dwfapi-annotations:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.638
+!MESSAGE The POM for com.daojia.bst.hbase:com.daojia.bst.hbase.contract:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.641
+!MESSAGE The POM for com.daojia.haobo.aicircle:com.daojia.haobo.aicircle.common.contract:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.644
+!MESSAGE The POM for com.daojia.spat:com.daojia.spat.dsf.client:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.646
+!MESSAGE The POM for com.daojia.spat:com.daojia.spat.dsf.protocol:jar:2.0.4-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.647
+!MESSAGE The POM for com.daojia.spat.dos:dos-client:jar:1.0.5-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.649
+!MESSAGE The POM for com.daojia:dos-ext-client:jar:0.0.3-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.650
+!MESSAGE The POM for com.daojia.spat:com.daojia.spat.djedis:jar:2.0.0-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.652
+!MESSAGE The POM for com.daojia.platform:com.daojia.platform.logcollector.client-frame:jar:1.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.653
+!MESSAGE The POM for com.daojia.platform:com.daojia.platform.logcollector.client-base:jar:1.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.663
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:10:06.667
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 2 0 2018-10-16 16:10:49.641
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-10-16 16:10:49.650
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:12:32.065
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:12:32.078
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:12:32.377
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:12:32.380
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:12:32.721
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:12:32.723
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:12:33.400
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:12:33.415
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 2 0 2018-10-16 16:13:15.748
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-10-16 16:13:15.749
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:13:48.961
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-16 16:13:48.965
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!

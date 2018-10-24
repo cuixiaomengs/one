@@ -1,0 +1,393 @@
+package com.daojia.controllers;
+
+import com.daojia.dwf.mvc.ActionResult;
+import com.daojia.dwf.mvc.DWFController;
+import com.daojia.dwf.mvc.action.StringActionResult;
+import com.daojia.dwf.mvc.annotation.*;
+import com.daojia.dwf.mvc.extension.annotation.DSFService;
+import com.daojia.entity.Resume;
+import com.daojia.haobo.aicircle.common.contract.IUpUserCluesFollowRecordService;
+import com.daojia.haobo.aicircle.common.entity.ResumeCompanyWantEntity;
+import com.daojia.haobo.aicircle.common.entity.UpUserCluesFollowRecordEntity;
+import org.springframework.stereotype.Component;
+
+/**
+ * Created by cxm on 2018/10/15.
+ */
+@Component
+public class ResumeController extends DWFController{
+
+    private
+
+    @DSFService("tcp://aicircle_common/UpUserCluesFollowRecordService")
+    private IUpUserCluesFollowRecordService iUpUserCluesFollowRecordService;
+    /**
+     *  37 编辑擅长技能
+     */
+
+    @Path("/resume/updateSkillsByUserId")
+    @GET
+    @POST
+    public ActionResult updateSkillsByUserId(@RequestBody UpUserCluesFollowRecordEntity model) {
+
+        return new StringActionResult("编辑擅长技能 updateSkillsByUserId");
+
+    }
+    /**
+     *  36 单独编辑求职意愿  resume_company_want
+     */
+
+    @Path("/resume/updateCompanyWantByUserId")
+    @GET
+    @POST
+    public ActionResult updateCompanyWantByUserId(@RequestBody ResumeCompanyWantEntity model) {
+        System.out.println(model.getWork_time()+"==="
+                +model.getIndustry_ids()+
+                "==="+model.getResume_id()+
+                "==="+model.getScale()+model.getPeople_size()+"==="+model.getStart_wage()+"=="+model.getUpdate_time()
+        );
+
+        return new StringActionResult(model.toString());
+    }
+
+    /**
+     *  35 单独编辑个人基本信息
+     */
+
+    @Path("/resume/updateBaseInfoByResume")
+    @GET
+    @POST
+    public ActionResult updateBaseInfoByResume(@RequestBody Resume model) {
+
+        return new StringActionResult("单独编辑个人基本信息 updateBaseInfoByResume");
+
+    }
+    /**
+     *  34 头像上传
+     */
+
+    @Path("/resume/headImageUpload")
+    @GET
+    @POST
+    public ActionResult headImageUpload() {
+
+        return new StringActionResult("头像上传 headImageUpload");
+
+    }
+
+    /**
+     *  33 获取擅长领域页面信息
+     */
+
+    @Path("/resume/getAllGoodAtInfo")
+    @GET
+    @POST
+    public ActionResult getAllGoodAtInfo() {
+
+        return new StringActionResult("获取擅长领域页面信息 getAllGoodAtInfo");
+
+    }
+
+    /**
+     *  32 单独删除项目经历
+     */
+
+    @Path("/resume/deleateProjectExperience")
+    @GET
+    @POST
+    public ActionResult deleateProjectExperience(@RequestParam long id ) {
+
+        return new StringActionResult("单独删除项目经历 deleateProjectExperience" + id);
+
+    }
+    /**
+     *  31 单独删除工作经历
+     */
+
+    @Path("/resume/deleateWorkExperience")
+    @GET
+    @POST
+    public ActionResult deleateWorkExperience() {
+
+        return new StringActionResult("单独删除工作经历 deleateWorkExperience");
+
+    }
+
+    /**
+     *  30 单独删除求学经历
+     */
+
+    @Path("/resume/deleateEduExperience")
+    @GET
+    @POST
+    public ActionResult deleateEduExperience() {
+
+        return new StringActionResult("单独删除求学经历 deleateEduExperience");
+
+    }
+
+    /**
+     *  29 单独修改项目经历
+     */
+
+    @Path("/resume/updateProjectExperience")
+    @GET
+    @POST
+    public ActionResult updateProjectExperience() {
+
+        return new StringActionResult("单独修改项目经历 updateProjectExperience");
+
+    }
+    /**
+     *  28 单独修改工作经历
+     */
+
+    @Path("/resume/updateWorkExperience")
+    @GET
+    @POST
+    public ActionResult updateWorkExperience() {
+
+        return new StringActionResult("单独修改工作经历 updateWorkExperience");
+
+    }
+    /**
+     *  27 单独修改求学经历
+     */
+
+    @Path("/resume/updateEduExperience")
+    @GET
+    @POST
+    public ActionResult updateEduExperience() {
+
+        return new StringActionResult("单独修改求学经历 updateEduExperience");
+
+    }
+
+    /**
+     *  26 单独添加项目经历
+     */
+
+    @Path("/resume/insertProjectExperience")
+    @GET
+    @POST
+    public ActionResult insertProjectExperience() {
+
+        return new StringActionResult("单独添加项目经历 insertProjectExperience");
+
+    }
+    /**
+     *  25 单独添加工作经历
+     */
+
+    @Path("/resume/insertWorkExperience")
+    @GET
+    @POST
+    public ActionResult insertWorkExperience() {
+
+        return new StringActionResult("单独添加工作经历 insertWorkExperience");
+
+    }
+    /**
+     *  24 单独添加求学经历
+     */
+
+    @Path("/resume/insertEduExperience")
+    @GET
+    @POST
+    public ActionResult insertEduExperience() {
+
+        return new StringActionResult("单独添加求学经历 insertEduExperience");
+
+    }
+    /**
+     *  23 根据站内信获取详情
+     */
+
+    @Path("/resume/getStationMailById")
+    @GET
+    @POST
+    public ActionResult getStationMailById() {
+
+        return new StringActionResult("根据站内信获取详情 getStationMailById");
+
+    }
+
+    /**
+     *  22  获取所有的站内信信息
+     */
+
+    @Path("/resume/getAllStationMailInfo")
+    @GET
+    @POST
+    public ActionResult getAllStationMailInfo() {
+
+        return new StringActionResult("根据站内信获取详情 getAllStationMailInfo");
+
+    }
+
+    /**
+     *  21  站内信数字表示
+     */
+
+    @Path("/resume/getStationMail")
+    @GET
+    @POST
+    public ActionResult getStationMail() {
+
+        return new StringActionResult("站内信数字表示 getStationMail");
+
+    }
+    /**
+     *  20  简历添加求职意向
+     */
+
+    @Path("/resume/insertCompanyWantByUserId")
+    @GET
+    @POST
+    public ActionResult insertCompanyWantByUserId() {
+
+        return new StringActionResult("简历添加求职意向 insertCompanyWantByUserId");
+
+    }
+    /**
+     *  19 简历添加擅长领域
+     */
+
+    @Path("/resume/insertSkillsByUserId")
+    @GET
+    @POST
+    public ActionResult insertSkillsByUserId() {
+
+        return new StringActionResult("简历添加擅长领域 insertSkillsByUserId");
+
+    }
+
+    /**
+     *  18 简历添加学历工作项目经验
+     */
+
+    @Path("/resume/insertPerEduWorkExperience")
+    @GET
+    @POST
+    public ActionResult insertPerEduWorkExperience() {
+
+        return new StringActionResult("简历添加学历工作项目经验 insertPerEduWorkExperience");
+
+    }
+
+    /**
+     *  17 简历添加个人基本信息
+     */
+
+    @Path("/resume/insertBaseInfoByResume")
+    @GET
+    @POST
+    public ActionResult insertBaseInfoByResume() {
+
+        return new StringActionResult("简历添加个人基本信息 insertBaseInfoByResume");
+
+    }
+
+    /**
+     *  15 根据个人id获取求职意向的内容
+     */
+
+    @Path("/resume/getCompanyWantByUserId")
+    @GET
+    @POST
+    public ActionResult getCompanyWantByUserId() {
+
+        return new StringActionResult("根据个人id获取求职意向的内容 getCompanyWantByUserId");
+
+    }
+
+    /**
+     *  14 根据个人id渲染技能展示页面
+     */
+
+    @Path("/resume/getSkillsByUserId")
+    @GET
+    @POST
+    public ActionResult getSkillsByUserId() {
+
+        return new StringActionResult("根据个人id渲染技能展示页面 getSkillsByUserId");
+
+    }
+    /**
+     *  13 根据技能id获取对应的技能名
+     */
+
+    @Path("/resume/getSkillsBySkillsTypeId")
+    @GET
+    @POST
+    public ActionResult getSkillsBySkillsTypeId() {
+
+        return new StringActionResult("根据技能id获取对应的技能名 getSkillsBySkillsTypeId");
+
+    }
+
+    /**
+     *  12 获取所有的技能分类
+     */
+
+    @Path("/resume/getAllSkillType")
+    @GET
+    @POST
+    public ActionResult getAllSkillType() {
+
+        return new StringActionResult("获取所有的技能分类 getAllSkillType");
+
+    }
+
+    /**
+     *  11 根据擅长领域获取对应的模板
+     */
+
+    @Path("/resume/getModelByGoodAtId")
+    @GET
+    @POST
+    public ActionResult getModelByGoodAtId() {
+
+        return new StringActionResult("根据擅长领域获取对应的模板 getModelByGoodAtId");
+
+    }
+    /**
+     *  10 擅长领域页面信息获取
+     */
+
+    @Path("/resume/getGoodAt")
+    @GET
+    @POST
+    public ActionResult getGoodAt() {
+
+        return new StringActionResult("擅长领域页面信息获取 getGoodAt");
+
+    }
+
+    /**
+     *  9 个人经验和受教育经历展示
+     */
+
+    @Path("/resume/getPerEduWorkExperience")
+    @GET
+    @POST
+    public ActionResult getPerEduWorkExperience() {
+
+        return new StringActionResult("个人经验和受教育经历展示 getPerEduWorkExperience");
+
+    }
+
+    /**
+     *  8 个人基本新信息数据展示
+     */
+
+    @Path("/resume/getPerBasicInfo")
+    @GET
+    @POST
+    public ActionResult getPerBasicInfo() {
+
+        return new StringActionResult("个人基本新信息数据展示 getPerBasicInfo");
+
+    }
+
+}
